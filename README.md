@@ -1,0 +1,1 @@
+# A simple javascript game that allows users to input a number and compare it to a random number generated. if input number = random number, it is a win and the score is stored as high score until a higher score is obtained.
